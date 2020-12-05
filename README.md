@@ -15,4 +15,4 @@ Pay attention! there is a branch in part 3 when training the model. You can just
 
 Results will be stored file result.csv in output folder.
 
-result10 and result 12 are top results of the code for this dataset.
+test.csv is the final submition of the code for this dataset.
